@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+Here are some quick stats about me:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulcostanza&layout=donut)](https://github.com/paulcostanza/github-readme-stats)
 <!--
 **paulcostanza/paulcostanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
