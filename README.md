@@ -8,7 +8,7 @@
 
 ### 🌱 I’m currently learning ...
 
-C# & redis
+C# & Go
 
 ---
 
