@@ -28,3 +28,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+# Hi there 👋
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulcostanza&theme=nord_dark)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulcostanza&theme=nord_dark)
+-->
